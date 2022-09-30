@@ -1,8 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz-5", "pz-5\pz-5.csproj", "{0BB18451-D1CD-462C-830D-97A0C5950110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pz-6", "pz-6\pz-6.csproj", "{3F4C3101-61EB-42E9-94FF-3179E18160CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB18451-D1CD-462C-830D-97A0C5950110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB18451-D1CD-462C-830D-97A0C5950110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB18451-D1CD-462C-830D-97A0C5950110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4C3101-61EB-42E9-94FF-3179E18160CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4C3101-61EB-42E9-94FF-3179E18160CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4C3101-61EB-42E9-94FF-3179E18160CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4C3101-61EB-42E9-94FF-3179E18160CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
