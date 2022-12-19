@@ -8,7 +8,6 @@ using (FileStream fstream = File.OpenRead("../../../file.txt"))
     
     foreach(string line in sreader.ReadToEnd().Split('\n'))
     {
-        Console.WriteLine(line);
         count_lines++;
         count_words += line.Split().Length;
     }
